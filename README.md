@@ -62,7 +62,7 @@ This ensures **continuous and stable trajectory tracking**.
 
 ---
 
-# ⚙️ Controller Integration
+# Controller Integration
 
 The system supports three controllers:
 
