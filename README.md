@@ -152,10 +152,12 @@ This produces:
 Example output:
 
 ```text
-Controller     RMSE     Mean ||u||
-PMP            0.xxx     xxx
-LQG            0.xxx     xxx
-MPC            0.xxx     xxx
+  Controller         RMSE   Mean ||u||
+  --------------------------------------
+  PMP              0.4671        889.5
+  LQG              0.2761         53.3
+  MPC              0.4112         61.3
+
 ```
 
 ---
