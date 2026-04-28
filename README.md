@@ -1,4 +1,4 @@
-# 🐾 Quadruped Trajectory Tracking using MPC, LQG and PMP
+# Quadruped Trajectory Tracking using MPC, LQG and PMP
 
 This project implements **trajectory tracking for a quadruped robot** in MuJoCo using **waypoint-based navigation** and multiple control strategies.
 
