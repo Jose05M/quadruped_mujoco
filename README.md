@@ -149,7 +149,7 @@ This produces:
 * RMSE comparison
 * Control effort comparison
 
-Example output:
+Output:
 
 ```text
   Controller         RMSE   Mean ||u||
